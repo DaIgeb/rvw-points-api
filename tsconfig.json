@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "allowUnreachableCode": false,
+    "allowUnusedLabels": false,
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "rootDir": "src",
+    "outDir": "build"
+  },
+  "files": [
+    "src/server.ts"
+  ]
+}
